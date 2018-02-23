@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HoaJewels</string>
+    <!--<string name="app_name">QR Scanner</string>-->
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to MainActivity-->
+    <string name="scan_barcode_button">Scan barcode</string>
+    <string name="no_barcode_captured">No barcode captured</string>
+    <string name="barcode_error_format">"Error reading barcode: %1$s"</string>
+
+    <!-- Strings related to barcode scanner -->
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="sign_up">Đăng nhập</string>
+    <string name="logout">Thoát</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="scan_again">Scan lại</string>
+    <string name="user_name">Tên người làm</string>
+    <string name="change_id">Đổi người làm</string>
+    <string name="get_order_infor_fail">Lấy thông tin order thất bại, scan lại</string>
+    <string name="update_order_fail">Order thất bại, thử lại</string>
+    <string name="update_order_success">Xác nhận order thành công</string>
+    <string name="change_user_fail">Đổi người làm thất bại, thử lại</string>
+    <string name="change_user_success">Đổi người làm thành công</string>
+    <string name="change_user">Đổi người làm khác</string>
+    <string name="not_username">Chưa nhập email</string>
+    <string name="not_password">Chưa nhập mật khẩu</string>
+    <string name="login_fail">Đăng nhập thất bại, thử lại</string>
+    <string name="get_role_userchange">get role userchange fail</string>
+
+
+
+</resources>
